@@ -1,0 +1,11 @@
+C:\Users\njlan\source\repos\fibonacci\fibonacci\bin\Debug\netcoreapp2.0\fibonacci.deps.json
+C:\Users\njlan\source\repos\fibonacci\fibonacci\bin\Debug\netcoreapp2.0\fibonacci.runtimeconfig.json
+C:\Users\njlan\source\repos\fibonacci\fibonacci\bin\Debug\netcoreapp2.0\fibonacci.runtimeconfig.dev.json
+C:\Users\njlan\source\repos\fibonacci\fibonacci\bin\Debug\netcoreapp2.0\fibonacci.dll
+C:\Users\njlan\source\repos\fibonacci\fibonacci\bin\Debug\netcoreapp2.0\fibonacci.pdb
+C:\Users\njlan\source\repos\fibonacci\fibonacci\obj\Debug\netcoreapp2.0\fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\njlan\source\repos\fibonacci\fibonacci\obj\Debug\netcoreapp2.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\njlan\source\repos\fibonacci\fibonacci\obj\Debug\netcoreapp2.0\fibonacci.AssemblyInfoInputs.cache
+C:\Users\njlan\source\repos\fibonacci\fibonacci\obj\Debug\netcoreapp2.0\fibonacci.AssemblyInfo.cs
+C:\Users\njlan\source\repos\fibonacci\fibonacci\obj\Debug\netcoreapp2.0\fibonacci.dll
+C:\Users\njlan\source\repos\fibonacci\fibonacci\obj\Debug\netcoreapp2.0\fibonacci.pdb
